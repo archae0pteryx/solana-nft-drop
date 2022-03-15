@@ -404,6 +404,7 @@ const CandyMachine = ({ walletAddress }) => {
     // Else let's just return the current drop date
     return <p>{`Drop Date: ${candyMachine.state.goLiveDateTimeString}`}</p>;
   };
+
   return (
     candyMachine && (
       <div className="machine-container">
@@ -419,8 +420,6 @@ const CandyMachine = ({ walletAddress }) => {
             Mint NFT
           </button>
         )}
-        {/* {mints.length > 0 && renderMintedItems()}
-        {isLoadingMints && <p>LOADING MINTS...</p>} */}
       </div>
     )
   );
