@@ -1,0 +1,19 @@
+{
+  "name": "Angry Kitten",
+  "symbol": "AKIT",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "87M1dw9urGgZnXknKo4q5Gvf4iTnTzVhBy3E7RufyrNi",
+        "share": 100
+      }
+    ]
+  }
+}

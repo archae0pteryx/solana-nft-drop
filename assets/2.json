@@ -1,0 +1,19 @@
+{
+  "name": "Cute Kitten",
+  "symbol": "CKIT",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "87M1dw9urGgZnXknKo4q5Gvf4iTnTzVhBy3E7RufyrNi",
+        "share": 100
+      }
+    ]
+  }
+}

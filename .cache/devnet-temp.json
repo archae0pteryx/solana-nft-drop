@@ -1,0 +1,24 @@
+{
+  "program": {
+    "uuid": "5peKs1",
+    "candyMachine": "5peKs1pypnXQ1X8nXTXqEzAyJKTLboPx7BqcS1VNnbC5",
+    "collection": "3aWyGs5URPxTkW5MBs9C2vY7M77CEZLawK2NYpBdfYTK"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/h5rncH2goFYrPOuzkNdYver5Cmyu8NmREx7yyPNgLFA",
+      "name": "Angry Kitten",
+      "onChain": true,
+      "verifyRun": false
+    },
+    "1": {
+      "link": "https://arweave.net/NobRWq2XThSIMWgFZdb2vkAEpq3Y_RXai_kCwnTLuMI",
+      "name": "Scared Kitten",
+      "onChain": true,
+      "verifyRun": false
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "startDate": "62312880"
+}
